@@ -24,6 +24,8 @@ Each row contains data about a single aviation accident. Here are descriptions f
 * `Total Minor Injuries` - The number of minor injuries
 * `Total Uninjured` - The number of people who did not sustain injuries
 * `Broad Phase of Flight` - The phase of flight during which the accident occurred
-
+* `Weather Condition` - The basic weather conditions at the time of the event. [VMC](https://en.wikipedia.org/wiki/Visual_meteorological_conditions),
+[IMC](https://en.wikipedia.org/wiki/Instrument_meteorological_conditions), or UNKNOWN
 The first part of this project is a guided project from DataQuest and it is playing around with different
 techniques for searching for values.
+
