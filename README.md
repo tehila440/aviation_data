@@ -26,6 +26,24 @@ Each row contains data about a single aviation accident. Here are descriptions f
 * `Broad Phase of Flight` - The phase of flight during which the accident occurred
 * `Weather Condition` - The basic weather conditions at the time of the event. [VMC](https://en.wikipedia.org/wiki/Visual_meteorological_conditions),
 [IMC](https://en.wikipedia.org/wiki/Instrument_meteorological_conditions), or UNKNOWN
-The first part of this project is a guided project from DataQuest and it is playing around with different
+
+The first part of this project is a guided project from DataQuest and the goal is to explore different
 techniques for searching for values.
+
+Task 1
+* Count how many accidents occurred in each U.S. state
+* Determine which state had the most accidents overall
+Top three states were California, Florida, Texas.  California had the most accidents, 8030.
+
+Task 2
+* Count how many fatalities and serious injuries occurred during each month
+Noember 1996 had the highest total injuries (fatalities + serious) with 1022.
+
+Task 3
+* Count the number of accidents by air carrier.
+* Count the number of accidents by airplane make and model.
+* Figure out what percentage of accidents occur under adverse weather conditions
+
+United Airlines had the most accidents.  The Cessna 152 was the make & model with the most accidents.
+Only 7.2% of the accidents occured under adverse weather conditions.
 
